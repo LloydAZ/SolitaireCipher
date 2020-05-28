@@ -1,5 +1,9 @@
 ﻿using System;
 
+/// <summary>
+/// Solitaire Cipher - http://rubyquiz.com/quiz1.html
+/// This is my C# solution for the solitaire cipher.
+/// </summary>
 namespace SolitaireCipher
 {
     class Program
